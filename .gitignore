@@ -1,5 +1,6 @@
-.DS_Store
+.classpath
+bin/
+.project
+.settings/
 
-scholar.log
-geckodriver.log
-samples/*.docx
+Main.jar
